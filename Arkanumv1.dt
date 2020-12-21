@@ -3,5 +3,7 @@
     <skinType>1</skinType>
     <description>Thème de la Guilde Arkanum sur Julith. Couleurs sombres.</description>
     <previewUri>arkanum.jpg</previewUri>
+    <version>2.0.0</version>
+    <dofusVersion>2.57</dofusVersion>
 	<author>Deva - Kendys - Malogicia</author>
 </theme>
