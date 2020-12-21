@@ -167,7 +167,6 @@ configqualityinfo {
 	font-style: italic;
 	text-align: center;
 }
-
 shopoldprice {
 	font-family: Roboto;
 	font-size: 12px;
@@ -175,7 +174,6 @@ shopoldprice {
 	text-align: justify;
     	font-weight: normal;
 }
-
 /*-------------------- niveaux de zone sur la map --------------------*/
 subarealevel {
 	font-family: Roboto;

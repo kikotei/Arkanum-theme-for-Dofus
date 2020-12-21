@@ -67,6 +67,31 @@ p {
 	color: #CB685E;
 }
 
+.neutral {
+    font-family: Roboto;
+    font-size: 15;
+    color: #c7c7c5;
+}
+
+.neutralvalue {
+    font-family: Roboto;
+    font-size: 15;
+    color: #c7c7c5;
+}
+
+.overFm {
+    font-family: Roboto;
+    font-size: 15;
+    color: #ffe21c;
+}
+
+.overFmvalue {
+    font-family: Roboto;
+    font-size: 15;
+    font-weight: bold;
+    color: #ffe21c;
+}
+
 .subeffectleftcolumn {
 	margin-left: 32;
 	leading: -15;
