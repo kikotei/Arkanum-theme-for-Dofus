@@ -186,6 +186,14 @@
 		uri: "[config.ui.skin]texture/map/filterMisc_On.png"
 	},
 
+	// quest
+	filter_quest_off:{
+		uri: "[config.ui.skin]texture/map/filterQuest_Off.png"
+	},
+	filter_quest_on:{
+		uri: "[config.ui.skin]texture/map/filterQuest_On.png"
+	},
+
 	
 	// private
 	filter_private_off:{
@@ -372,12 +380,57 @@
 		"uri": "[config.ui.skin]bitmap/btn_buy_over.png",
 		scale9Grid:{x:10,y:10,width:12,height:12}
     },
+	btn_buy_over_orange: {
+		"uri": "[config.ui.skin]bitmap/btn_buy_over_orange.png",
+		scale9Grid:{x:10,y:10,width:12,height:12}
+    },
 	bg_small_green: {
 		"uri": "[config.ui.skin]bitmap/bg_small_green.png",
 		scale9Grid:{x:5,y:5,width:35,height:35}
 	},
 	tx_breach:{
 		uri:"[config.ui.skin]texture/icon_spiral_grey.png"
+	},
+	"bg_error_frame":{
+		"uri":"[config.ui.skin]bitmap/bg_error_frame.png",
+		scale9Grid:{x:5,y:5,width:40,height:40}
+	},
+
+	"rare_slot":{
+		"uri":"[config.ui.skin]texture/slot/rareSlot.png",
+		scale9Grid:{x:5,y:5,width:35,height:35}
+	},
+
+	vtab_right_disabled_normal:{
+		uri: "[config.ui.skin]common/tab_right_disabled.png",
+		scale9Grid:{x:5,y:10,width:40,height:38}
+	},
+	vtab_right_disabled_over:{
+		uri: "[config.ui.skin]common/tab_right_disabled_over.png",
+		scale9Grid:{x:5,y:10,width:40,height:38}
+	},
+	vtab_right_disabled_pressed:{
+		uri: "[config.ui.skin]common/tab_right_disabled_pressed.png",
+		scale9Grid:{x:5,y:10,width:40,height:38}
+	},
+	vtab_right_disabled_selected:{
+		uri: "[config.ui.skin]common/tab_right_disabled_pressed.png",
+		scale9Grid:{x:5,y:10,width:40,height:38}
+	},
+	vtab_right_normal:{
+		uri: "[config.ui.skin]common/tab_right_normal.png",
+		scale9Grid:{x:5,y:10,width:40,height:38}
+	},
+	vtab_right_over:{
+		uri: "[config.ui.skin]common/tab_right_over.png",
+		scale9Grid:{x:5,y:10,width:40,height:38}
+	},
+	vtab_right_pressed:{
+		uri: "[config.ui.skin]common/tab_right_pressed.png",
+		scale9Grid:{x:5,y:10,width:40,height:38}
+	},
+	vtab_right_selected:{
+		uri: "[config.ui.skin]common/tab_right_selected.png",
+		scale9Grid:{x:5,y:10,width:40,height:38}
 	}
-	
 }

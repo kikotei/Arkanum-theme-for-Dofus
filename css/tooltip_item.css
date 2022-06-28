@@ -50,7 +50,6 @@ p {
 .bonusvalue {
 	font-family: Roboto;
 	font-size: 15;
-	font-weight: bold;
 	color: #52AE3F;
 }
 
@@ -63,33 +62,32 @@ p {
 .malusvalue {
 	font-family: Roboto;
 	font-size: 15;
-	font-weight: bold;
 	color: #CB685E;
 }
 
 .neutral {
-    font-family: Roboto;
-    font-size: 15;
-    color: #c7c7c5;
+	font-family: Roboto;
+	font-size: 15;
+	color: #c7c7c5;
 }
 
 .neutralvalue {
-    font-family: Roboto;
-    font-size: 15;
-    color: #c7c7c5;
+	font-family: Roboto;
+	font-size: 15;
+	color: #c7c7c5;
 }
 
 .overFm {
-    font-family: Roboto;
-    font-size: 15;
-    color: #ffe21c;
+	font-family: Roboto;
+	font-size: 16;
+	font-weight: bold;
+	color: #ffe21c;
 }
 
 .overFmvalue {
-    font-family: Roboto;
-    font-size: 15;
-    font-weight: bold;
-    color: #ffe21c;
+	font-family: Roboto;
+	font-size: 16;
+	color: #ffe21c;
 }
 
 .subeffectleftcolumn {
@@ -110,7 +108,6 @@ p {
 .exoticvalue {
 	font-family: Roboto;
 	font-size: 15;
-	font-weight: bold;
 	color: #658FC4;
 }
 
@@ -136,6 +133,13 @@ p {
 	font-family: Roboto;
 	font-size: 15;
 	color: #ebc304;
+}
+
+.importantNotice {
+	font-family: Roboto;
+	font-size: 15;
+	color: #ebc304;
+	margin-left: 32;
 }
 
 .description {
@@ -263,4 +267,11 @@ spellZone {
 	margin-left: 22;
 	margin-right: 75;
 	text-align: left;
+}
+
+.valueLineWithIcon {
+	font-family: Roboto;
+	font-size: 15;
+	color: #c7c7c5;
+	margin-right: 126;
 }
